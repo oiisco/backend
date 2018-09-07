@@ -1,4 +1,4 @@
-require 'rails_helper'
+require 'test_helper'
 
 module Products
   describe Create do
